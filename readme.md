@@ -1,6 +1,6 @@
 🌿 Ayurveda AI: Full-Stack RAG-Powered Dietary Blueprint
 
-🚀 View Live Demo (Note: As this is hosted on a free Render tier, the backend may take 30-50 seconds to "wake up" on the first request.)
+🚀 View Live Demo https://ayurveda-brown.vercel.app/ (Note: As this is hosted on a free Render tier, the backend may take 30-50 seconds to "wake up" on the first request.)
 
 📖 Overview
 
