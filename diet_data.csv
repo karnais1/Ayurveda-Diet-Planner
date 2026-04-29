@@ -1,0 +1,88 @@
+Age,Weight,Goal,Dosha,Food
+20,55,Gain,Vata,Milk
+21,57,Gain,Vata,Rice
+22,60,Gain,Vata,Ghee
+23,62,Gain,Vata,Dates
+24,58,Gain,Vata,Paneer
+25,61,Gain,Vata,Banana
+26,59,Gain,Vata,Almonds
+27,63,Gain,Vata,Chapati
+28,64,Gain,Vata,Sweet Potato
+29,66,Gain,Vata,Khichdi
+
+30,80,Loss,Kapha,Salad
+31,82,Loss,Kapha,Soup
+32,85,Loss,Kapha,Green Tea
+33,78,Loss,Kapha,Boiled Vegetables
+34,88,Loss,Kapha,Apple
+35,84,Loss,Kapha,Lentils
+36,90,Loss,Kapha,Carrot
+37,86,Loss,Kapha,Spinach
+38,83,Loss,Kapha,Oats
+39,87,Loss,Kapha,Broccoli
+
+22,65,Maintain,Pitta,Fruits
+23,67,Maintain,Pitta,Vegetables
+24,66,Maintain,Pitta,Cucumber
+25,68,Maintain,Pitta,Coconut Water
+26,69,Maintain,Pitta,Rice
+27,70,Maintain,Pitta,Moong Dal
+28,71,Maintain,Pitta,Chapati
+29,72,Maintain,Pitta,Apple
+30,73,Maintain,Pitta,Milk
+31,74,Maintain,Pitta,Leafy Greens
+
+32,60,Gain,Vata,Milk
+33,62,Gain,Vata,Rice
+34,64,Gain,Vata,Ghee
+35,66,Gain,Vata,Dates
+36,68,Gain,Vata,Paneer
+37,70,Gain,Vata,Banana
+38,72,Gain,Vata,Almonds
+39,74,Gain,Vata,Chapati
+40,76,Gain,Vata,Sweet Potato
+41,78,Gain,Vata,Khichdi
+
+42,90,Loss,Kapha,Salad
+43,92,Loss,Kapha,Soup
+44,94,Loss,Kapha,Green Tea
+45,96,Loss,Kapha,Boiled Vegetables
+46,98,Loss,Kapha,Apple
+47,100,Loss,Kapha,Lentils
+48,102,Loss,Kapha,Carrot
+49,104,Loss,Kapha,Spinach
+50,106,Loss,Kapha,Oats
+51,108,Loss,Kapha,Broccoli
+
+26,68,Maintain,Pitta,Fruits
+27,69,Maintain,Pitta,Vegetables
+28,70,Maintain,Pitta,Cucumber
+29,71,Maintain,Pitta,Coconut Water
+30,72,Maintain,Pitta,Rice
+31,73,Maintain,Pitta,Moong Dal
+32,74,Maintain,Pitta,Chapati
+33,75,Maintain,Pitta,Apple
+34,76,Maintain,Pitta,Milk
+35,77,Maintain,Pitta,Leafy Greens
+
+36,58,Gain,Vata,Milk
+37,60,Gain,Vata,Rice
+38,62,Gain,Vata,Ghee
+39,64,Gain,Vata,Dates
+40,66,Gain,Vata,Paneer
+41,68,Gain,Vata,Banana
+42,70,Gain,Vata,Almonds
+43,72,Gain,Vata,Chapati
+44,74,Gain,Vata,Sweet Potato
+45,76,Gain,Vata,Khichdi
+
+46,88,Loss,Kapha,Salad
+47,90,Loss,Kapha,Soup
+48,92,Loss,Kapha,Green Tea
+49,94,Loss,Kapha,Boiled Vegetables
+50,96,Loss,Kapha,Apple
+51,98,Loss,Kapha,Lentils
+52,100,Loss,Kapha,Carrot
+53,102,Loss,Kapha,Spinach
+54,104,Loss,Kapha,Oats
+55,106,Loss,Kapha,Broccoli
